@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./properties.css";
+import "./Properties.css";
 import { SearchBar } from "../../components/SearchBar/SearchBar";
 import { useProperties } from "../../hooks/useProperties";
 import { PuffLoader } from "react-spinners";
