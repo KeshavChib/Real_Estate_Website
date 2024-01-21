@@ -4,7 +4,7 @@ import { AddLocation } from "../AddLocation/AddLocaion";
 import { useAuth0 } from "@auth0/auth0-react";
 
 import BasicDetails from "../BasicDetails/BasicDetails.jsx";
-import { UploadImage } from "../uploadImage/uploadImage.jsx";
+import { UploadImage } from "../UploadImage/uploadImage.jsx";
 import Facilities from "../Facilities/Facilities.jsx";
 
 const AddPropertyModal = ({opened, setOpened}) => {
